@@ -1,6 +1,9 @@
+# Hosting URL : https://ideas-dashboard.web.app/signin 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## credits to "Shaun Pelling"
 
 ## Available Scripts
 
